@@ -1,4 +1,4 @@
-package Dobro;
+package dobro;
 
 import java.util.Scanner;
 
