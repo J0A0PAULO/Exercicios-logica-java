@@ -1,3 +1,5 @@
+package soma;
+
 import java.util.Scanner;
 
 public class Soma {
