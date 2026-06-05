@@ -1,0 +1,4 @@
+package fatorial;
+
+public class Fatorial {
+}
